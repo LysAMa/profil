@@ -5,13 +5,13 @@
 /*}*/
 @font-face
 {
-    font-family: 'AlexBrush';
-    src: url('../type/alex-brush/AlexBrush-Regular.ttf');
+    font-family: 'Comic Sans MS';
+    src: url('../type/comic-sans-ms/ComicSansMS3.ttf');
 }
 
 body {
-    font-family: 'AlexBrush';
-    font-size: 150%;
+    font-family: 'Comic Sans MS';
+    /*font-size: 150%;*/
 }
 
 .lyse-pic
@@ -21,6 +21,6 @@ body {
 
 #size-menu
 {
-    font-size: 150%;
+    /*font-size: 150%;*/
 }
 

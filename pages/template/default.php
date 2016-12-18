@@ -8,7 +8,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>LysA</title>
 
-    <link rel="shortcut icon" type="image/x-icon" href="style/images/favicon.png" />
+<!--    <link rel="shortcut icon" type="image/x-icon" href="style/images/favicon.png" />-->
     <link href="style/css/bootstrap.css" rel="stylesheet">
     <link href="style/css/settings.css" rel="stylesheet">
     <link href="style/js/google-code-prettify/prettify.css" rel="stylesheet">
