@@ -1,0 +1,26 @@
+/*@font-face*/
+/*{*/
+    /*font-family: 'NiconneRegular';*/
+    /*src: url('../type/NiconneRegular/NiconneRegular.ttf');*/
+/*}*/
+@font-face
+{
+    font-family: 'AlexBrush';
+    src: url('../type/alex-brush/AlexBrush-Regular.ttf');
+}
+
+body {
+    font-family: 'AlexBrush';
+    font-size: 150%;
+}
+
+.lyse-pic
+{
+    border: 1px double dimgray;
+}
+
+#size-menu
+{
+    font-size: 150%;
+}
+
