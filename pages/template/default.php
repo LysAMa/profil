@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>LysA</title>
 
@@ -43,5 +43,23 @@
 <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>-->
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
+<script src="style/js/jquery.js"></script>
+<script src="style/js/bootstrap.min.js"></script>
+<script src="style/js/twitter-bootstrap-hover-dropdown.min.js"></script>
+<script src="style/js/ddsmoothmenu.js"></script>
+<script src="style/js/jquery.themepunch.plugins.min.js"></script>
+<script src="style/js/jquery.themepunch.revolution.min.js"></script>
+<script src="style/js/jquery.themepunch.showbizpro.min.js"></script>
+<script src="style/js/jquery.fancybox.pack.js"></script>
+<script src="style/js/fancybox/helpers/jquery.fancybox-thumbs0ff5.js?v=1.0.2"></script>
+<script src="style/js/fancybox/helpers/jquery.fancybox-mediae209.js?v=1.0.0"></script>
+<script src="style/js/jquery.meanmenu.2.0.min.js"></script>
+<script src="style/js/jquery.fitvids.js"></script>
+<script src="style/js/jquery.slickforms.js"></script>
+<script src="style/js/jquery.isotope.min.js"></script>
+<script src="style/js/google-code-prettify/prettify.js"></script>
+<script src="style/js/jquery.easytabs.min.js"></script>
+<script src="style/js/jquery.hoverdir.min.js"></script>
+<script src="style/js/scripts.js"></script>
 </body>
 </html>

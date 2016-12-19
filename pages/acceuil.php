@@ -7,10 +7,10 @@
             </div>
             <!-- /.page-header -->
             <!-- ajout d'une image -->
-            <div class="divide10"></div>
+<!--            <div class="divide10"></div>-->
             <div class="row media-icons">
                 <div class="media span6 rp10"> <i class="large pull-left"></i>
-                    <figure class="overlay media-wrapper"><a href="style/imags/art/p2.jpg" class="fancybox-media" rel="portfolio"><img class="img-thumbnail lyse-pic" src="img/lyse.jpg" alt="Photos de moi!" /></a></figure>
+                    <figure class="overlay media-wrapper"><a href="style/imags/art/p2.jpg" class="fancybox-media" rel="portfolio"><img class="img-thumbnail img-responsive lyse-pic" src="img/lyse.jpg" alt="Photos de moi!" /></a></figure>
                 </div>
 
                 <div class="media span6 rp10">
