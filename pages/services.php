@@ -3,7 +3,7 @@
         <div class="light-wrapper">
             <div class="container inner">
                 <div class="page-header">
-                    <h1 class="page-title">Some about me</strong></h1>
+                    <h1 class="page-title">Services</strong></h1>
                 </div>
 
                 <h3 class="section-title">Why Choose Us?</h3>

@@ -3,13 +3,15 @@
         <div class="light-wrapper">
             <div class="container inner">
                 <div class="page-header">
-                    <h1 class="page-title">Some about me</strong></h1>
+                    <h1 class="page-title">Mon blog, <small>Mon Monde, Mes Mots, Moi</small></strong></h1>
                 </div>
+                <div class="row">
+                    <div class="span8">
+                        <p>Maecenas vehicula condimentum consequat. Ut suscipit ipsum eget leotero convallis feugiat upsoyut fermentum leo auctor consequat turpis aturo nisiper.</p>
 
-                <h3 class="section-title">Why Choose Us?</h3>
-                <p class="lead">Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Lorem ipsum dolor sit amet,
-                    adipiscing elit. Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere.</p>
-            </div>
+                    </div>
+                </div>
+                </div>
         </div>
     </div>
 </div>
