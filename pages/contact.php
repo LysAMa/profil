@@ -8,12 +8,12 @@
 
                 <div class="row">
                     <div class="span8">
-                        <h1 class="post-title">Feel Free to Drop Us a Line</h1>
-                        <p>Maecenas vehicula condimentum consequat. Ut suscipit ipsum eget leotero convallis feugiat upsoyut fermentum leo auctor consequat turpis aturo nisiper.</p>
+                        <h1 class="post-title">Ne te retiens pas! Laisse moi un mot</h1>
+                        <p>Un coucou. Un conseil. Une critique. Un avertissement. Une notice. Fais toi plaisir!</p>
                         <div class="divide20"></div>
                         <div class="form-container">
                             <div class="response alert alert-success"></div>
-                            <form class="forms" action="http://themes.iki-bir.com/seabird/side-menu/contact/form-handler.php" method="post">
+                            <form class="forms" action="#" method="post">
                                 <fieldset>
                                     <ol>
                                         <li class="form-row text-input-row name-field">
@@ -46,10 +46,10 @@
                     <aside class="span4 sidebar lp20">
                         <div class="sidebox widget">
                             <h3>Address</h3>
-                            <p>Fusce dapibus, tellus commodo, tortor mauris condimentum utellus fermentum, porta sem malesuada magna. Sed posuere consectetur est at lobortis. Morbi leo risus, porta ac consectetur.</p>
+<!--                            <p>Fusce dapibus, tellus commodo, tortor mauris condimentum utellus fermentum, porta sem malesuada magna. Sed posuere consectetur est at lobortis. Morbi leo risus, porta ac consectetur.</p>-->
                             <address>
                                 <strong>LysA, LADOUCEUR Lyse</strong><br>
-                                Haiti, Port-au-Prince<br>
+                                Haiti, Jacmel<br>
                                 <abbr title="Phone">P:</abbr> (509) 3466 64 11<br>
                                 <abbr title="Email">E:</abbr> <a href="mailto:#">ladouceurlyse44@gmail.com</a>
                             </address>

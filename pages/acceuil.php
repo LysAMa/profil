@@ -16,18 +16,24 @@
                 <div class="media span6 rp10">
                     <!--/.pull-left-->
                     <div class="media-body">
+<!--                        <p>"Aux ames bien nees, la valeur n'attends point le nombre des annees"</p>-->
                         <p style="font-size: 110%;">
-                            Hello, mon nom est LysA. I like to and share my tought.
-                            Je pretend etre une informaticienne. Keep up with my friends,
-                            lauth at funny stuff.Why don't you say Hi?
+                            Hello, mon nom est LysA, je suis Haitienne.
+                            Je suis une amoureuse des sciences et de la technologie.
+                            J'aime la nature. J'aime les gens. J'aime l'art.<br />
+                            J'aimerai essay&eacute un nouveau truc, "l'expression",
+                            donc ce serait une joie de partager avec vous mes pensees.<br />
+                            Mais je vous dit deja je suis une fan d'aventure et j'adore les gens.
+                            J'adore par dessus tout me faire des amis et m'amuser comme une folle.
+                            Si ca vous tente, faites moi un petit coucou! ;)
                         </p>
-                        <p>Ladouceur<br />
-                            Lyse<br />
-                            avril 1995<br />
-                            ladouceurlyse44@gmail.com<br />
-                            +509 3466 64 11<br />
-                            Haiti, Port-au-Prince, Carrefour<br />
-                            HT 509</p>
+<!--                        <p>Ladouceur<br />-->
+<!--                            Lyse<br />-->
+<!--                            avril 1995<br />-->
+<!--                            ladouceurlyse44@gmail.com<br />-->
+<!--                            +509 3466 64 11<br />-->
+<!--                            Haiti, Port-au-Prince, Carrefour<br />-->
+<!--                            HT 509</p>-->
                     </div>
                     <!--/.media-body-->
                 </div>

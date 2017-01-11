@@ -8,9 +8,9 @@
                 <div id="portfolio">
                     <ul class="items thumbs portfolio row">
                         <li class="item thumb span4 graphic">
-                            <figure class="overlay media-wrapper"><a href="style/images/art/p1.jpg" class="fancybox-media" rel="portfolio"><img src="style/images/art/p1.jpg" alt="" /></a></figure>
+                            <figure class="overlay media-wrapper"><a href="style/images/art/ayi.png" class="fancybox-media" rel="portfolio"><img src="style/images/art/ayi.png" alt="ayitimizik.net" /></a></figure>
                             <div class="details">
-                                <h4 class="post-title"><a href="portfolio-post.html">Nobis Business Card</a></h4>
+                                <h4 class="post-title"><a href="portfolio-post.html">Ayiti Mizik</a></h4>
                                 <div class="meta">Grapic Design, Corporate</div>
                                 <p>Morbi leo risus, porta ac consectetur ac. Porta sagittis lacus vel. Fusce dapibus, tellus ac.</p>
                             </div>
